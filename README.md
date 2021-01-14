@@ -19,11 +19,11 @@ Usage
 
 python create.py hello_world
 
-# This creates hello_word.py file with the following comment:
-'''Created on 
-2021-01-14 04:28:54
-@author:abhi'''
-.
-.
-.
-..
+# This creates hello_word.py file with the following comment:<br/>
+'''Created on <br/>
+2021-01-14 04:28:54 <br/>
+@author:abhi''' <br/>
+.<br/>
+.<br/>
+.<br/>
+..<br/>
