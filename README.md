@@ -17,13 +17,15 @@ The create.py script makes use of the sys and time module to create a pre-loaded
 Usage
 ========
 
-python create.py hello_world
+<code>python create.py hello_world</code>
 
 # This creates hello_word.py file with the following comment:<br/>
-'''Created on <br/>
-2021-01-14 04:28:54 <br/>
-@author:abhi''' <br/>
+'''<br/>
+Created on <br/>
+Thu Jan 14 10:10:46 2021 <br/>
+@author:abhi <br/>
+''' <br/>
+...<br/>
 .<br/>
 .<br/>
-.<br/>
-..<br/>
+...<br/>
