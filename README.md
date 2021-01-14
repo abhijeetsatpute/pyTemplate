@@ -20,11 +20,12 @@ Usage
 python create.py hello_world
 
 # This creates hello_word.py file with the following comment:<br/>
-'''Created on <br/>
+'''<br/>
+Created on <br/>
 Thu Jan 14 10:10:46 2021 <br/>
 @author:abhi <br/>
 ''' <br/>
-.<br/>
+...<br/>
 .<br/>
 .<br/>
 ...<br/>
