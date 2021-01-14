@@ -17,7 +17,7 @@ The create.py script makes use of the sys and time module to create a pre-loaded
 Usage
 ========
 
-python create.py hello_world
+<code>python create.py hello_world<code/>
 
 # This creates hello_word.py file with the following comment:<br/>
 '''<br/>
